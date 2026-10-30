@@ -219,6 +219,11 @@
     <summary>Preview</summary>
     <img src="examples/KernelErr.png">
   </details>
+- [kyshipit](https://github.com/kyshipit)
+  <details>
+    <summary>Preview</summary>
+    <img src="examples/kyshipit.png">
+  </details>
 
 <div align="right">
 
